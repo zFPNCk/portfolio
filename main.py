@@ -13,3 +13,8 @@ with col2:
     I'm a student of computer science and a backend developer. I'm also a valorant player and a fan of the game. I'm also a big fan of TV shows and movies, and my favorite genre is mystery.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the app I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
